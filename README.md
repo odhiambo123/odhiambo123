@@ -6,6 +6,6 @@ I’m @odhiambo123, a software developer with recent experience in building mult
 - I enjoy collaborative team envitonments where I can continue to learn from others, and I have worked very hard to improve my interpersonal and communication skills.  
 - 🌱 I currently code mostly in Kotlin and Python and ongoing projects include:
   -  [CRUD with Room Application in Kotlin - Project 1](https://github.com/odhiambo123/Odhi_P1)
-  -  [CLEAN MVVM Architecture with API and Room : 220425 - WVU-STAN Project 2](https://github.com/odhiambo123/RevProject2)
+  -  220425 - WVU-STAN Project 2 : [CLEAN MVVM Architecture with API and Room](https://github.com/odhiambo123/RevProject2)
   -  [General Python](https://github.com/odhiambo123/general_py)
 - [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A614K10)
