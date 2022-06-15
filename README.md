@@ -5,7 +5,7 @@ I’m @odhiambo123, a software developer with recent experience in building mult
 - I joined [Revature](https://revature.com/referral-software-engineer/?ra=0030P00002GNmMf&ru=0050P0000085FVG) Where I have had the opportunity to work on several projects boosting my experience in both back end technologies including, Kotlin, SQL, Saleforce CRM, as  well as front end development; HTML/CSS Javascript. I have experience in DevOps and using CI/CD pipelines deploying to the cloud.
 - I enjoy collaborative team envitonments where I can continue to learn from others.
 - 🌱 I currently code mostly in Kotlin and Python, some of my ongoing projects include:
-  -  [CRUD with Room Application in Kotlin - Project 1](https://github.com/odhiambo123/Odhi_P1)
+  -  220425 - WVU-STAN Project 1 : [CRUD with Room Application in Kotlin - Project 1](https://github.com/odhiambo123/Odhi_P1)
   -  220425 - WVU-STAN Project 2 : [CLEAN MVVM Architecture with API and Room](https://github.com/odhiambo123/RevProject2)
   -  [General Python](https://github.com/odhiambo123/general_py)
 
