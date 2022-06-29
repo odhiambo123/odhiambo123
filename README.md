@@ -7,7 +7,7 @@ I’m David O, a android application developer at Revature. Over the years I hav
 - 🌱 I currently code mostly in Kotlin and Python, some of my ongoing projects include:
   -  [General Python](https://github.com/odhiambo123/general_py)
   -  220425 - WVU-STAN Project 1 : [CRUD with Room Application in Kotlin - Project 1](https://github.com/odhiambo123/Odhi_P1)
-  -  220425 - WVU-STAN Project 2 : [Working with API and Room](https://github.com/odhiambo123/RevProject2)
+  -  220425 - WVU-STAN Project 2 : [Working with API and Room](https://github.com/odhiambo123/Project2)
   -  220425 - WVU-STAN Project 3 : [MVVM Firebase, Okta, Room](https://github.com/SourDoe/Riddler/tree/test_1)
  
 
