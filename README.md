@@ -1,6 +1,10 @@
 ### 👋
 
-I’m David O, a android application developer at Revature. Over the years I have learned to program in different technologies including Python, Java, Javascript and Kotlin among others. When I'm not coding, I like to jog on the trail, hike, or play/watch rugby-footbal
+I’m Odhiambo, 
+I studied computer science,where I focused on software and computer architecture principles, fundamentals, algorithms and data structures. After college, I continued to practice my software skills by worling with various technologies like HTML CSS Javascript , Python, and most recently Android and Kotlin for mobile app development.
+
+My favorit technologies Kotlin/Android and Python/Flask Python/Django gRPC. One of my favorite projects is the general_py project which I in order to help me learn python better. The general_py project taught me many things about myself including my key strength - Determination.
+When I'm not coding, I like to jog on the trail, hike, or play/watch rugby-footbal.
 Working in technology trains the mind to think logically and openly. There is never a time I am not learning something new in the field of technology.
 
 #### quick note save you time: CTRL+click on links to open in a new page 
