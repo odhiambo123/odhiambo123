@@ -20,7 +20,7 @@ In my June 2022 project with a team of 6 we were tasked with creating an android
   - [Generics, objects, and Extensions](https://github.com/odhiambo123/GenericsObjectsExtension)
   - [Email Page, with shared Preferences](https://github.com/odhiambo123/Mphasis_Coding_Test)
 
-
+### In Progress
   -  [General Python](https://github.com/odhiambo123/general_py)
   -  220425 - WVU-STAN Project 1 : [CRUD with Room Application in Kotlin - Project 1](https://github.com/odhiambo123/Odhi_P1)
   -  220425 - WVU-STAN Project 2 : [Working with API and Room](https://github.com/odhiambo123/Project2)
@@ -36,7 +36,9 @@ In my June 2022 project with a team of 6 we were tasked with creating an android
    - I volunteered to mentor youth at technovation for one year
    - I build three client websites three organizations. 
 ### Interests:
-   - Dedicate some time to contribute to more open source projects.
+   - Kotlin
+   - Android
+   - AI
    
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="HFV8K949A3P2J" />
