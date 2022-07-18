@@ -15,7 +15,11 @@ Working in technology trains the mind to think logically and openly. There is ne
 
 In my June 2022 project with a team of 6 we were tasked with creating an android application that would let the user create a game and host the game online, inviting others to play remotely. This project showcased remote Api consumption,  offline strategy using room db, user authentication using firebase firestore, and localization.
 
-In my July 2022 project I was tasked with  creating an android application that would let the user read emails from a remote host. Once opened, the messages would be marked as read using bold. The user had two tabs, one to take the user to inbox and the other for the settings. This project showcased remote Api consumption,  offline strategy using room db, MVVM design pattern,  and localization
+### July Projects...
+  - [ImageFetch](https://github.com/odhiambo123/ImageFetch)
+  - [Generics, objects, and Extensions](https://github.com/odhiambo123/GenericsObjectsExtension)
+  - [Email Page, with shared Preferences](https://github.com/odhiambo123/Mphasis_Coding_Test)
+
 
   -  [General Python](https://github.com/odhiambo123/general_py)
   -  220425 - WVU-STAN Project 1 : [CRUD with Room Application in Kotlin - Project 1](https://github.com/odhiambo123/Odhi_P1)
@@ -32,10 +36,9 @@ In my July 2022 project I was tasked with  creating an android application that 
    - I volunteered to mentor youth at technovation for one year
    - I build three client websites three organizations. 
 ### Interests:
-   - I would like to dedicate some time to contribute to more open source rpojects
-   - I would like to dedicate more time into working on android projects.
+   - Dedicate some time to contribute to more open source projects.
    
- <form action="https://www.paypal.com/donate" method="post" target="_top">
+<form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="HFV8K949A3P2J" />
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
