@@ -1,21 +1,11 @@
 ### 👋
-
-I’m Odhiambo, 
 I studied computer science, where I focused on software and computer architecture principles, fundamentals, algorithms and data structures. After college, I continued to practice my software skills by working with various technologies like HTML CSS Javascript, Python, and most recently Android and Kotlin for mobile app development.
 
 My favorite technologies include but are not limited to Kotlin, Java and Python. One of my favorite projects is the general_py project, for which I intended to create comprehensive python reference materials.
 
-Working in technology trains the mind to think logically and openly. There is never a time I am not learning something new.
-
 - [Revature](https://revature.com/referral-software-engineer/?ra=0030P00002GNmMf&ru=0050P0000085FVG) Has been a great experience Where I have had the opportunity to work on several projects boosting my experience in both back-end and front-end technologies including, Kotlin, SQL, Salesforce CRM, and HTML, CSS, Javascript. 
 - I enjoy collaborative team environments where I can continue to learn from others.
 - 🌱 I currently code mostly in Kotlin and Python, some of my ongoing projects are listed below:
-
-### July Projects...
-  - [ImageFetch](https://github.com/odhiambo123/ImageFetch)
-  - [Email Page, with shared Preferences](https://github.com/odhiambo123/Mphasis_Coding_Test)
->>>>>>> f8c76df16bfc0fd4900de85af3cfdd98903d4155
-
 ### In Progress
   -  [General Python](https://github.com/odhiambo123/general_py)
 
@@ -35,13 +25,8 @@ Working in technology trains the mind to think logically and openly. There is ne
    - I volunteered to mentor youth at Technovation for one year
    - I build three client websites and three organizations. 
 ### Interests:
-<<<<<<< HEAD
-   - ML, IoT,Automation
-=======
-   - Kotlin
-   - Android
-   - AI
->>>>>>> f8c76df16bfc0fd4900de85af3cfdd98903d4155
+
+  - ML, IoT,Automation
    
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="HFV8K949A3P2J" />
