@@ -11,12 +11,20 @@ Working in technology trains the mind to think logically and openly. There is ne
 - I enjoy collaborative team environments where I can continue to learn from others.
 - 🌱 I currently code mostly in Kotlin and Python, some of my ongoing projects are listed below:
 
+### July Projects...
+  - [ImageFetch](https://github.com/odhiambo123/ImageFetch)
+  - [Email Page, with shared Preferences](https://github.com/odhiambo123/Mphasis_Coding_Test)
+>>>>>>> f8c76df16bfc0fd4900de85af3cfdd98903d4155
 
+### In Progress
   -  [General Python](https://github.com/odhiambo123/general_py)
+
   -  220425 - WVU-STAN Project 1: [CRUD with](https://github.com/odhiambo123/Odhi_P1) Room Application in Kotlin - Project 1](https://github.com/odhiambo123/Odhi_P1)
   -  220425 - WVU-STAN Project 2: [Working with](https://github.com/odhiambo123/Project2) API and Room](https://github.com/odhiambo123/Project2)
   -  220425 - WVU-STAN Project 3: [MVVM Firebase](https://github.com/SourDoe/Riddler/tree/test_1), Room](https://github.com/SourDoe/Riddler/tree/test_1)
   -  For more open source contributions please refer to [My GitHub Page](https://github.com/odhiambo123?tab=repositories)
+
+ f8c76df16bfc0fd4900de85af3cfdd98903d4155
   
  ### Other Experiences:
  Between the period of 2013 to 2021
@@ -27,9 +35,15 @@ Working in technology trains the mind to think logically and openly. There is ne
    - I volunteered to mentor youth at Technovation for one year
    - I build three client websites and three organizations. 
 ### Interests:
+<<<<<<< HEAD
    - ML, IoT,Automation
+=======
+   - Kotlin
+   - Android
+   - AI
+>>>>>>> f8c76df16bfc0fd4900de85af3cfdd98903d4155
    
- <form action="https://www.paypal.com/donate" method="post" target="_top">
+<form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="HFV8K949A3P2J" />
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
