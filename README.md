@@ -34,4 +34,5 @@ My favorite technologies include but are not limited to Kotlin, Java and Python.
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-[Support](https://www.paypal.com/donate/?hosted_button_id=XA25BFDYUCV48)
+[![image](https://user-images.githubusercontent.com/8829018/180861117-19865d04-174f-476d-9dc2-b9b1bd34e8da.png)
+](https://www.paypal.com/donate/?hosted_button_id=XA25BFDYUCV48)
