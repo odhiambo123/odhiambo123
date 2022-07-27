@@ -24,9 +24,7 @@ My favorite technologies include but are not limited to Kotlin, Java and Python.
    - I volunteered to mentor youth at the US-Cyberpatriot for two years
    - I volunteered to mentor youth at Technovation for one year
    - I build three client websites and three organizations. 
-### Interests:
 
-  - ML, IoT,Automation
    
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="HFV8K949A3P2J" />
